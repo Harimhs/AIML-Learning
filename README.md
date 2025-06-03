@@ -1,2 +1,2 @@
 # AIML-Learning
-This is contains my AIML learning 
+This repo is contains only AIML learning materials
